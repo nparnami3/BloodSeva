@@ -12,13 +12,13 @@ The application features distinct user interfaces for each type of user:
 
 Organizations benefit from a comprehensive interface with several advanced modules, including:
 
-<li>A customizable dashboard with real-time insights</li>
+<li>A customizable dashboard with real-time insights.</li>
 
-Analytics tools for performance evaluation and reporting
+<li>Analytics tools for performance evaluation and reporting.</li>
 
-Advanced filtering options to manage blood inventory
+<li>Advanced filtering options to manage blood inventory</li>
 
-Activity tracking to analyze blood usage patterns and trends
+<li>Activity tracking to analyze blood usage patterns and trends</li>
 
 The system was built with a strong focus on data privacy, security, and seamless user experience, ensuring efficient communication between all stakeholders and maintaining the integrity of critical medical data.
 
