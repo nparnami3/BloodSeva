@@ -4,13 +4,14 @@
 
 I designed and implemented a robust web-based application named BloodBank, built to streamline the blood donation process and enhance communication between donors, hospitals, and organizations. This platform enables organizations to facilitate blood donation drives, while hospitals can monitor and manage their blood inventory in real time.
 
-The application features distinct user interfaces for each type of user:
+The application features distinct user interfaces for each type of user: <br>
 <ul>
 <li>Donors have access to personalized dashboards where they can manage their profiles, track recent donations, and view their activity history</li>
 
 <li>Hospitals can monitor the quantity and type of blood received from various sources, ensuring efficient resource management.</li>
 
-Organizations benefit from a comprehensive interface with several advanced modules, including:
+<li>Organizations benefit from a comprehensive interface with several advanced modules, including:</li>
+<ul>
 
 <li>A customizable dashboard with real-time insights.</li>
 
@@ -20,7 +21,8 @@ Organizations benefit from a comprehensive interface with several advanced modul
 
 <li>Activity tracking to analyze blood usage patterns and trends</li>
 
-The system was built with a strong focus on data privacy, security, and seamless user experience, ensuring efficient communication between all stakeholders and maintaining the integrity of critical medical data.
+<li>The system was built with a strong focus on data privacy, security, and seamless user experience, ensuring efficient communication between all stakeholders and maintaining the integrity of critical medical data.</li> </ul>
+</ul>
 
 
 
@@ -45,10 +47,10 @@ low-level CSS framework that gives you all of the building blocks you need to bu
 
 #<b>MongoDB</b> MongoDB is an open-source NoSQL database management program. NoSQL (Not only SQL) is used as an alternative to traditional relational databases.
  
-#<h3> Setup
-#<h4> Node version - 18
-#<h4> mongo_url - { you have give your mongo connection string }.
-#<h4> jwt_secret - { own secret }
+<h3> Setup
+<h4> Node version - 18
+<h4> mongo_url - { you have give your mongo connection string }.
+<h4> jwt_secret - { own secret }
 
 # <h3>Web Pages ScreenShot</h3>
 <h4>Donar Registration page</h4>
