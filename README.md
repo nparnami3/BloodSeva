@@ -5,14 +5,14 @@
 I designed and implemented a robust web-based application named BloodBank, built to streamline the blood donation process and enhance communication between donors, hospitals, and organizations. This platform enables organizations to facilitate blood donation drives, while hospitals can monitor and manage their blood inventory in real time.
 
 The application features distinct user interfaces for each type of user:
+<ul>
+<li>Donors have access to personalized dashboards where they can manage their profiles, track recent donations, and view their activity history</li>
 
-Donors have access to personalized dashboards where they can manage their profiles, track recent donations, and view their activity history.
-
-Hospitals can monitor the quantity and type of blood received from various sources, ensuring efficient resource management.
+<li>Hospitals can monitor the quantity and type of blood received from various sources, ensuring efficient resource management.</li>
 
 Organizations benefit from a comprehensive interface with several advanced modules, including:
 
-A customizable dashboard with real-time insights
+<li>A customizable dashboard with real-time insights</li>
 
 Analytics tools for performance evaluation and reporting
 
