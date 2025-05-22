@@ -1,14 +1,28 @@
-# <h1><b>BloodBank</b></h1>
+# <h1><b>BloodSeva</b></h1>
 
 # <h3>About the Application</h3>
 
-I have designed and implemented a robust web-based blood bank application, named "BloodBank," which serves as a platform for blood donation to organizations and provides hospitals with the ability to monitor the quantity of blood they have received from various sources. 
+I designed and implemented a robust web-based application named BloodBank, built to streamline the blood donation process and enhance communication between donors, hospitals, and organizations. This platform enables organizations to facilitate blood donation drives, while hospitals can monitor and manage their blood inventory in real time.
 
-The application offers distinct user interfaces tailored for donors, hospitals, and organizations. Donors can access their dashboards to view and manage their recent activities.
+The application features distinct user interfaces for each type of user:
 
-Organizations benefit from a dedicated interface comprising multiple modules, including a customizable dashboard that presents real-time insights, analytics tools for performance evaluation, advanced filtering options to efficiently manage blood inventory, and activity tracking to monitor blood consumption trends. 
+Donors have access to personalized dashboards where they can manage their profiles, track recent donations, and view their activity history.
 
-Through careful consideration of technical implementation, the BloodBank application ensures seamless communication between users and the system while maintaining data privacy and security.
+Hospitals can monitor the quantity and type of blood received from various sources, ensuring efficient resource management.
+
+Organizations benefit from a comprehensive interface with several advanced modules, including:
+
+A customizable dashboard with real-time insights
+
+Analytics tools for performance evaluation and reporting
+
+Advanced filtering options to manage blood inventory
+
+Activity tracking to analyze blood usage patterns and trends
+
+The system was built with a strong focus on data privacy, security, and seamless user experience, ensuring efficient communication between all stakeholders and maintaining the integrity of critical medical data.
+
+
 
 # <h3>Tech Stacks</h3>
 
